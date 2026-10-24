@@ -1,0 +1,24 @@
+name: qr_gen_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  qr_flutter: ^4.1.0
+  file_picker: ^8.0.0
+  path: ^1.9.0
+  lan_scanner: ^4.0.0+1
+  network_info_plus: ^7.0.0
+  permission_handler: ^11.3.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

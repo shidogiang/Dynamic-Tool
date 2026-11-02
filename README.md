@@ -1,3 +1,3 @@
-# qr_gen_app
+# Dynamic Tool
 
-A new Flutter project.
+Something convenient for me and someone the same me

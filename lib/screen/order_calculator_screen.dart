@@ -42,7 +42,7 @@ class _OrderCalculatorScreenState extends State<OrderCalculatorScreen> {
   
   // Controllers cho các ô nhập liệu
   final TextEditingController _amountController = TextEditingController();
-  final TextEditingController _feeController = TextEditingController(text: '3.2');
+  final TextEditingController _feeController = TextEditingController(text: '3.904');
   final TextEditingController _weightController = TextEditingController();
   
   // ĐÃ FIX: Chuyển lợi nhuận thành Controller để gõ được số tùy ý
